@@ -1,3 +1,4 @@
+/*-------------ELIMINAR ESTA VERSION YA NO LA USAREMOS-------------*/
 package app;
 
 import javax.persistence.EntityManager;
